@@ -7,7 +7,7 @@
  
 }
 /* Tablet & mobile */
-@media (max-width:1023px) {
+@media (max-width: 1023px) {
     .place_ticket_btn {
        line-height: 48px;
     }
